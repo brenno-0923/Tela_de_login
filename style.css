@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(52, 231, 127);
+}
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+}
+.logo {
+    margin-top: 5px;
+    margin-left: 50px; 
+}
+.formulario {
+    position: absolute;
+    left: 100px;
+    top: 500px;
+    background-color: #fffdfd; 
+    padding: 20px; 
+    border-radius: 10px;
+}
+
+.formulario input[type="text"],
+.formulario input[type="password"],
+.formulario input[type="radio"],
+.formulario button {
+    border-radius: 10px;
+    border: 1px solid rgb(2, 0, 0); 
+    padding: 10px; 
+}
+.formulario button{
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(52, 231, 127); 
+    color: #070404; 
+    margin-right: 5px;
+    margin-top: 3px;
+
+}
+.assinatura{
+    font-size: 120%;
+    position: absolute;
+    left: 75px;
+    top: 550px;
+
+}
