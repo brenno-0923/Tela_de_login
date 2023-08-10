@@ -13,11 +13,16 @@ body{
 }
 .formulario {
     position: absolute;
-    left: 100px;
-    top: 500px;
+    left: 1000px;
+    top: 200px;
     background-color: #fffdfd; 
     padding: 20px; 
     border-radius: 10px;
+}
+.imagem{
+    position: absolute;
+    left: 350px;
+    top: 200px;
 }
 
 .formulario input[type="text"],
@@ -32,7 +37,7 @@ body{
     border-radius: 10px;
     border: none;
     background-color: rgb(52, 231, 127); 
-    color: #070404; 
+    color: #000000; 
     margin-right: 5px;
     margin-top: 3px;
 
