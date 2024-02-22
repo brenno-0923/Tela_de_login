@@ -1,6 +1,25 @@
-<h1 align="center"> Página de Cadastro 👨🏻‍💻 </h1>
+<h1 align="center"> Gerenciamento de uma estética automotiva 👨🏻‍💻 </h1>
 
-**⛳Desafio:** Desenvolver uma página de acesso que tenha tanto o processo de login quanto o de cadastro, que permita que os dados sejam armazenados dentro de um banco de dados relacional.
+⛳ Projeto: Este foi o meu último projeto desenvolvido durante minha graduação, pois serviu como meu Trabalho de Conclusão de Curso (TCC), marcando o término da minha faculdade de Análise e Desenvolvimento de Sistemas (ADS).
+
+⛳ Projeto: O objetivo deste projeto foi criar um sistema para gerenciar clientes e serviços de uma estética automotiva. Ele inclui um site que divulga os serviços oferecidos e explica o funcionamento da empresa, além de proporcionar as seguintes funcionalidades aos usuários:
+ <h1>Funcionalidades:</h1>
+ <h2>Para Cliente:</h2>
+  <ul>
+        <li>Cadastro de cliente.</li>
+        <li>Gerenciamento de horário.</li>
+        <li>Escolha entre os serviços de lavagem, pintura e manutenção.</li>
+        <li>Opção de desmarcar ou alterar o serviço agendado.</li>
+        <li>Algumas opções para entretenimento enquanto esperam pelo serviço.</li>
+    </ul>
+ <h2>Para Funcionários:</h2>
+    <ul>
+        <li>Listagem dos serviços a serem concluídos no dia.</li>
+        <li>Cancelamento de agendamentos de clientes.</li>
+        <li>Conclusão de serviços.</li>
+    </ul>
+    
+Todas essas funcionalidades foram projetadas visando facilitar o processo e otimizar o tempo, garantindo a excelência no serviço prestado aos clientes.
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
